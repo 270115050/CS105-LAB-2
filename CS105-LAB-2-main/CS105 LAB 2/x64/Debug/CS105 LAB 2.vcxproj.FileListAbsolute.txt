@@ -1,0 +1,2 @@
+C:\Users\270115050\OneDrive - UP Education\Desktop\CS105\CS105-LAB-2-main\CS105 LAB 2\x64\Debug\CS105 LAB 2.exe
+C:\Users\270115050\OneDrive - UP Education\Desktop\CS105\CS105-LAB-2-main\CS105 LAB 2\x64\Debug\CS105 LAB 2.pdb
